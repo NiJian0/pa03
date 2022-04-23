@@ -1,4 +1,6 @@
 # CS103a Express App Demo
+author: Ni Jian
+movie link: https://drive.google.com/file/d/16doCgfXGH14jLCZ06rmKr44Hx6tKLMHj/view?usp=sharing
 
 This is a starter project which has a simple authentication module 
 and provides access to a mongoose database in the cloud.
